@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **domenicogagliotti3@gmail.com**
 
-- ⚡ Fun fact **I love cinema**
+- ⚡ Fun fact **I love movies**
 
 <h2 align="left">📌​ Stats:</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
