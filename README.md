@@ -20,7 +20,8 @@
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gdom03&show_icons=true&theme=radical&card_width=220" />
-</a><br><br>
+</a>
+<h3 align="left">📌​ Old Account:</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdom3&layout=compact&theme=radical" />
 </a>
