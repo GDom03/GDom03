@@ -14,6 +14,22 @@
 
 - ⚡ Fun fact **I love movies**
 
+<h2 align="left">🛠️ Skills:</h2>
+
+<div align="center">
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,c,cpp,cs,cmake,java,py,dart,flutter,html,css,js,angular,php,postgres,vscode,eclipse,latex,notion,github,linux,bash,figma,arduino" />
+      </a>
+    </p>
+</div><br>
+  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/domenicogagliotti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Domenico Gagliotti Linkedin" height="30" width="40" /></a>
+<a href="https://instagram.com/gdom_3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gdom_3" height="30" width="40" /></a>
+
+
 <h2 align="left">📌​ Stats:</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GDom03&layout=compact&theme=radical" />
@@ -29,18 +45,4 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GDom3&show_icons=true&theme=radical&card_width=220" />
 </a><br><br>
 
-<h2 align="left">🛠️ Skills:</h2>
-
-<div align="center">
-    <p align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,c,cpp,cs,cmake,java,py,dart,flutter,html,css,js,angular,php,postgres,vscode,eclipse,latex,notion,github,linux,bash,figma,arduino" />
-      </a>
-    </p>
-</div><br>
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/domenicogagliotti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Domenico Gagliotti Linkedin" height="30" width="40" /></a>
-<a href="https://instagram.com/gdom_3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gdom_3" height="30" width="40" /></a>
 </p>
