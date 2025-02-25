@@ -22,7 +22,7 @@
         <img src="https://skillicons.dev/icons?i=git,c,cpp,cs,cmake,java,py,dart,flutter,html,css,js,angular,php,postgres,vscode,eclipse,latex,notion,github,linux,bash,figma,arduino" />
       </a>
     </p>
-</div><br>
+</div>
   
 <h2 align="left">🧠 Connect with me:</h2>
 <p align="left">
