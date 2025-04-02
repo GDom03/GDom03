@@ -4,9 +4,9 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working/ed on **University's project**:
-    - 🚀 [Algorithms and Data Structures project](https://github.com/GDom3/LASD)
-    - 🚀 [UninaDelivey24](https://github.com/GDom3/ProgettoGagliottiDifferente)
-    - 🚀 [TelefonoSenzaFili](https://github.com/FlorindoDev/TelefonoSenzaFili)
+    - 🚀 [Algorithms and Data Structures project](https://github.com/GDom03/LASD)
+    - 🚀 [UninaDelivey24](https://github.com/GDom03/ProgettoGagliottiDifferente)
+    - 🚀 [TelefonoSenzaFili](https://github.com/GDom03/TelefonoSenzaFili)
     - 🔜 DietiEstates25, Work in progress
     
 
