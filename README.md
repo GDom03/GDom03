@@ -6,7 +6,7 @@
 - 🔭 I’m currently working/ed on **University's project**:
     - 🚀 [Algorithms and Data Structures project](https://github.com/GDom3/LASD)
     - 🚀 [UninaDelivey24](https://github.com/GDom3/ProgettoGagliottiDifferente)
-    - 🚀 [TelefonoSenzaFili](https://github.com/GDom3/TelefonoSenzaFili)
+    - 🚀 [TelefonoSenzaFili](https://github.com/FlorindoDev/TelefonoSenzaFili)
     - 🔜 DietiEstates25, Work in progress
     
 
