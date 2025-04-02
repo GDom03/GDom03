@@ -6,9 +6,9 @@
 - 🔭 I’m currently working/ed on **University's project**:
     - 🚀 [Algorithms and Data Structures project](https://github.com/GDom3/LASD)
     - 🚀 [UninaDelivey24](https://github.com/GDom3/ProgettoGagliottiDifferente)
+    - 🚀 [TelefonoSenzaFili](https://github.com/GDom3/TelefonoSenzaFili)
     - 🔜 DietiEstates25, Work in progress
-    - 🔜 TelefonoSenzaFili, Work in progress
-
+    
 
 - 📫 How to reach me **domenicogagliotti3@gmail.com**
 
