@@ -8,6 +8,7 @@
     - 🚀 [UninaDelivey24](https://github.com/GDom03/ProgettoGagliottiDifferente)
     - 🚀 [TelefonoSenzaFili](https://github.com/GDom03/TelefonoSenzaFili)
     - 🔜 DietiEstates25, Work in progress
+    - 🔜 FakeRestaurants, Work in progress
     
 
 - 📫 How to reach me **domenicogagliotti3@gmail.com**
