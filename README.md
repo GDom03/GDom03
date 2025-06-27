@@ -4,11 +4,11 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working/ed on **University's project**:
+    - 🚀 [FakeRestaurants](https://github.com/GDom03/FakeRestaurant/)
     - 🚀 [Algorithms and Data Structures project](https://github.com/GDom03/LASD)
     - 🚀 [UninaDelivey24](https://github.com/GDom03/ProgettoGagliottiDifferente)
     - 🚀 [TelefonoSenzaFili](https://github.com/GDom03/TelefonoSenzaFili)
     - 🔜 DietiEstates25, Work in progress
-    - 🔜 FakeRestaurants, Work in progress
     
 
 - 📫 How to reach me **domenicogagliotti3@gmail.com**
