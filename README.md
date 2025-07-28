@@ -8,7 +8,7 @@
     - 🚀 [Algorithms and Data Structures project](https://github.com/GDom03/LASD)
     - 🚀 [UninaDelivey24](https://github.com/GDom03/ProgettoGagliottiDifferente)
     - 🚀 [TelefonoSenzaFili](https://github.com/GDom03/TelefonoSenzaFili)
-    - 🔜 DietiEstates25, Work in progress
+    - 🚀 [DietiEstates25](https://github.com/FlorindoDev/DietiEstates25)
     
 
 - 📫 How to reach me **domenicogagliotti3@gmail.com**
